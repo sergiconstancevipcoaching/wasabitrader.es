@@ -19,6 +19,7 @@ export default function ComparisonSection() {
           </h2>
           <p className="text-base sm:text-lg text-gray-700 max-w-3xl mx-auto px-4">
             Sistema con <span className="text-blue-600 font-black">IA que analiza todas las ofertas</span> en
+            <span className="text-blue-600 font-black"> menos de 5 minutos</span>
             <span className="text-blue-600 font-black">menos de 5 minutos</span>
           </p>
         </div>
